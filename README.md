@@ -4,10 +4,10 @@
 
 ## Highlights
 
-🚀 My WebCV: [Heise.sh](https://heise.sh)
-📌 HeiseMind: [YouTube Channel](https://www.youtube.com/@HeiseMind) or [GitHub Repo](https://github.com/eduheise/heisemind)
+- 🚀 My WebCV: [Heise.sh](https://heise.sh)
+- 📌 HeiseMind: [YouTube Channel](https://www.youtube.com/@HeiseMind) or [GitHub Repo](https://github.com/eduheise/heisemind)
 
 ## Connect With Me
 
-📧 eduheise@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/eduheise/)
+- 📧 eduheise@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduheise/)
