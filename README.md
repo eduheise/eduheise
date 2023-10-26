@@ -5,7 +5,7 @@
 ## Highlights
 
 - 🚀 My WebCV: [Heise.sh](https://heise.sh)
-- 📌 HeiseMind: [YouTube Channel](https://www.youtube.com/@HeiseMind) or [GitHub Repo](https://github.com/eduheise/heisemind)
+- 📌 HeiseMind: [YouTube Channel](https://www.youtube.com/@HeiseMind) or [GitHub Account](https://github.com/heisemind)
 
 ## Connect With Me
 
